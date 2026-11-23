@@ -3,7 +3,6 @@
 ## 1) Add your cake photos
 Open `assets/images/` and upload your photos using these exact filenames:
 
-- `hero-cake.jpg` — large homepage banner cake photo
 - `birthday.jpg`
 - `anniversary.jpg`
 - `wedding.jpg`
